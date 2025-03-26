@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Sword",
+    "renderType": 1,
+    "blockingRenderType": 0,
+    "texture": "iron_sword",
+    "customModelName": "copper_knuckles:default",
+    "blockingModelName": "Normal blocking",
+    "name": "Copper knuckles",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "COMBAT"
+      }
+    ],
+    "efficiency": 5.0,
+    "attackSpeed": 10.0,
+    "enchantability": 18,
+    "damageVsEntity": 1.5,
+    "usageCount": 201,
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "Items.COPPER_INGOT"
+      }
+    ],
+    "immuneToFire": false,
+    "blockDropsTier": "WOOD",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "Knuckleshit"
+    },
+    "onItemInInventoryTick": {
+      "name": "Copperexposeknuckles"
+    },
+    "onItemInUseTick": {
+      "name": "Knucklesarmtick"
+    }
+  }
+}

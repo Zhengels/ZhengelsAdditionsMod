@@ -1,0 +1,9 @@
+{
+  "parent": "zhengelss_aditions:custom/metallurgist_table",
+  "textures": {
+    "all": "zhengelss_aditions:block/cobblestone",
+    "particle": "zhengelss_aditions:block/cobblestone",
+    "2": "zhengelss_aditions:block/metallurgist_table"
+  },
+  "render_type": "solid"
+}

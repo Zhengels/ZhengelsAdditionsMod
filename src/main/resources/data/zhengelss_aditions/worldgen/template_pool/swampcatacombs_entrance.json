@@ -1,0 +1,17 @@
+{
+  "name": "zhengelss_aditions:swampcatacombs_entrance",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "zhengelss_aditions:archeology_2_entrance",
+        "projection": "rigid",
+        "processors": {
+          "processors": []
+        }
+      }
+    }
+  ]
+}

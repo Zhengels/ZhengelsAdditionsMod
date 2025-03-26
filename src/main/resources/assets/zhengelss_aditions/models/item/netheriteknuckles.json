@@ -1,0 +1,7 @@
+{
+  "parent": "zhengelss_aditions:custom/netherite_knuckles",
+  "textures": {
+    "1": "zhengelss_aditions:block/netherite_knuckles",
+    "particle": "minecraft:item/netherite_sword"
+  }
+}

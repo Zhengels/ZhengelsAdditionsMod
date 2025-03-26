@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "zhengelss_aditions:amethystlampon",
+    "zhengelss_aditions:amethystlamp",
+    "zhengelss_aditions:copperlantern",
+    "zhengelss_aditions:exposedamethistlampon",
+    "zhengelss_aditions:exposedamethistlamp",
+    "zhengelss_aditions:weatheredamethistlampon",
+    "zhengelss_aditions:weatheredamethistlamp",
+    "zhengelss_aditions:oxidizedamethistlampon",
+    "zhengelss_aditions:oxidizedamethistlamp",
+    "zhengelss_aditions:waxed_amethystlampon",
+    "zhengelss_aditions:waxed_amethystlamp",
+    "zhengelss_aditions:waxedexposed_amethystlampon",
+    "zhengelss_aditions:waxedexposed_amethystlamp",
+    "zhengelss_aditions:waxedweatheredamethystlampan",
+    "zhengelss_aditions:waxedweatheredamethystlamp",
+    "zhengelss_aditions:exposedcopperlantern",
+    "zhengelss_aditions:weatheredcopperlantern",
+    "zhengelss_aditions:oxidizedcopperlantern",
+    "zhengelss_aditions:waxedcopperlantern",
+    "zhengelss_aditions:waxedexposedcopperlantern",
+    "zhengelss_aditions:waxedweatheredcopperlantern",
+    "minecraft:spyglass"
+  ]
+}

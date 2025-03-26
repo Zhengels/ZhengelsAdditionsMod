@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zhengelss_aditions:block/stripped_birch_log_top",
+    "up": "zhengelss_aditions:block/stripped_birch_log_top",
+    "north": "zhengelss_aditions:block/fire_bomb",
+    "east": "zhengelss_aditions:block/fire_bomb",
+    "south": "zhengelss_aditions:block/fire_bomb",
+    "west": "zhengelss_aditions:block/fire_bomb",
+    "particle": "zhengelss_aditions:block/stripped_birch_log_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "zhengelss_aditions:block/metalurgisttable"
+    },
+    "facing=east": {
+      "model": "zhengelss_aditions:block/metalurgisttable",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "zhengelss_aditions:block/metalurgisttable",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "zhengelss_aditions:block/metalurgisttable",
+      "y": 270
+    }
+  }
+}

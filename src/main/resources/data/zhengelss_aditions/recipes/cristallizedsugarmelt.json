@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "zhengelss_aditions:cristallizedsugaritem"
+    },
+    {
+      "item": "zhengelss_aditions:cristallizedsugaritem"
+    },
+    {
+      "item": "zhengelss_aditions:cristallizedsugaritem"
+    },
+    {
+      "item": "zhengelss_aditions:cristallizedsugaritem"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    }
+  ],
+  "result": {
+    "item": "zhengelss_aditions:sweetwater_bucket",
+    "count": 1
+  }
+}

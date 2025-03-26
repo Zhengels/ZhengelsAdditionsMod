@@ -1,0 +1,66 @@
+{
+  "lightsword_hit_2": {
+    "sounds": [
+      {
+        "name": "zhengelss_aditions:lightsword_hit_2",
+        "stream": false
+      }
+    ]
+  },
+  "lightsword_miss": {
+    "sounds": [
+      {
+        "name": "zhengelss_aditions:lightsword_miss",
+        "stream": false
+      }
+    ]
+  },
+  "lightsword_equip": {
+    "sounds": [
+      {
+        "name": "zhengelss_aditions:lightsword_equip",
+        "stream": false
+      }
+    ]
+  },
+  "lightsword_hit": {
+    "sounds": [
+      {
+        "name": "zhengelss_aditions:lightsword_hit",
+        "stream": false
+      }
+    ]
+  },
+  "light_sword_miss_2": {
+    "sounds": [
+      {
+        "name": "zhengelss_aditions:light_sword_miss_2",
+        "stream": false
+      }
+    ]
+  },
+  "light_sword_hit_3": {
+    "sounds": [
+      {
+        "name": "zhengelss_aditions:light_sword_hit_3",
+        "stream": false
+      }
+    ]
+  },
+  "fire_sword_hit": {
+    "sounds": [
+      {
+        "name": "zhengelss_aditions:fire_sword_hit",
+        "stream": false
+      }
+    ]
+  },
+  "fire_sword_miss": {
+    "sounds": [
+      {
+        "name": "zhengelss_aditions:fire_sword_miss",
+        "stream": false
+      }
+    ]
+  }
+}

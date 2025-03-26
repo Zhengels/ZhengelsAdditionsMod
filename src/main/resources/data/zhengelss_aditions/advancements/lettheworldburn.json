@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "zhengelss_aditions:fireblock"
+    },
+    "title": {
+      "translate": "advancements.lettheworldburn.title"
+    },
+    "description": {
+      "translate": "advancements.lettheworldburn.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "lettheworldburn_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "zhengelss_aditions:firebomb"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "minecraft:nether/obtain_blaze_rod"
+}

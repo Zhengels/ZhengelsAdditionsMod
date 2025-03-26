@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "zhengelss_aditions:exposedcopperarmour_boots"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    }
+  ],
+  "result": {
+    "item": "zhengelss_aditions:waxedexposedcopperarmour_boots",
+    "count": 1
+  }
+}

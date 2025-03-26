@@ -1,0 +1,45 @@
+{
+  "_fv": 73,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Sword",
+    "renderType": 1,
+    "blockingRenderType": 0,
+    "texture": "light_sword_1",
+    "customModelName": "light_sword_2:default",
+    "blockingModelName": "Normal blocking",
+    "name": "Light sword II",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "COMBAT"
+      }
+    ],
+    "efficiency": 8.0,
+    "attackSpeed": 1.6,
+    "enchantability": 20,
+    "damageVsEntity": 7.0,
+    "usageCount": 1561,
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "Items.DIAMOND"
+      }
+    ],
+    "immuneToFire": false,
+    "blockDropsTier": "DIAMOND",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "Lightsword_hit"
+    },
+    "onEntitySwing": {
+      "name": "Lightsword_miss"
+    }
+  }
+}

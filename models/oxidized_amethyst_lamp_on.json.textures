@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "oxidized_amethist_lamp_bottom_on",
+        "3": "amethist_lamp_top_on"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "folga_2",
+        "1": "lasania_side",
+        "2": "lasania"
+      },
+      "name": "default"
+    }
+  }
+}

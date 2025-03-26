@@ -1,0 +1,100 @@
+{
+  "_fv": 73,
+  "_type": "blockstates",
+  "definition": {
+    "block": "Lasagna",
+    "blockstateList": [
+      {
+        "texture": "lasania",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "lasania_eat_1:default",
+        "luminance": 0,
+        "boundingBoxes": []
+      },
+      {
+        "texture": "lasania",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "lasania_eat_2:default",
+        "luminance": 0,
+        "boundingBoxes": []
+      },
+      {
+        "texture": "lasania",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "lasania_eat_3:default",
+        "luminance": 0,
+        "boundingBoxes": []
+      },
+      {
+        "texture": "lasania",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "lasania_eat_4:default",
+        "luminance": 0,
+        "boundingBoxes": []
+      },
+      {
+        "texture": "lasania",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "lasania_eat_5:default",
+        "luminance": 0,
+        "boundingBoxes": []
+      },
+      {
+        "texture": "lasania",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "lasania_eat_6:default",
+        "luminance": 0,
+        "boundingBoxes": []
+      },
+      {
+        "texture": "folga_2",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "lasania_eaten:default",
+        "luminance": 0,
+        "boundingBoxes": []
+      }
+    ]
+  }
+}

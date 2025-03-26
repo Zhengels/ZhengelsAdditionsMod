@@ -1,0 +1,32 @@
+{
+  "_fv": 73,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:Lavaaxe"
+      },
+      {
+        "value": "CUSTOM:Lavapickaxe"
+      },
+      {
+        "value": "CUSTOM:Lavasword"
+      },
+      {
+        "value": "CUSTOM:Lavashovel"
+      },
+      {
+        "value": "CUSTOM:Lavahoe"
+      },
+      {
+        "value": "CUSTOM:Lavaskythe"
+      },
+      {
+        "value": "CUSTOM:Lavahammer"
+      }
+    ],
+    "information": [
+      "Walk in water with this item in your inventory to cool it down."
+    ]
+  }
+}

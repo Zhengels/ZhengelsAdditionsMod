@@ -1,0 +1,14 @@
+{
+  "_fv": 73,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:Amethysttotem"
+      }
+    ],
+    "information": [
+      "Heals player if he is under 4 hp."
+    ]
+  }
+}

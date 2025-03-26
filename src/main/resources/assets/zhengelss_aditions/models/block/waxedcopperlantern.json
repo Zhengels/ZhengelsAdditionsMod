@@ -1,0 +1,9 @@
+{
+  "parent": "zhengelss_aditions:custom/copper_lantern",
+  "textures": {
+    "all": "zhengelss_aditions:block/copper_lantern",
+    "particle": "zhengelss_aditions:block/copper_lantern",
+    "2": "zhengelss_aditions:block/copper_lantern"
+  },
+  "render_type": "solid"
+}

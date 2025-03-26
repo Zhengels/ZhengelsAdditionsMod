@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "andesiteget_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:andesite"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "zhengelss_aditions:craftandesiteaxe",
+      "zhengelss_aditions:craftandesiteshovel",
+      "zhengelss_aditions:craftandesitehoe",
+      "zhengelss_aditions:craftandesitepickaxe",
+      "zhengelss_aditions:craftandesitesword",
+      "zhengelss_aditions:andesitescythecraft"
+    ]
+  }
+}

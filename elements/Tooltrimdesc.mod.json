@@ -1,0 +1,14 @@
+{
+  "_fv": 73,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:Tooltrim"
+      }
+    ],
+    "information": [
+      "Used to apply skins to tools and weapons."
+    ]
+  }
+}

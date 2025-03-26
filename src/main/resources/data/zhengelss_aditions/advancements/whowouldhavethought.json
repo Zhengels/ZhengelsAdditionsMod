@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:exposed_copper"
+    },
+    "title": {
+      "translate": "advancements.whowouldhavethought.title"
+    },
+    "description": {
+      "translate": "advancements.whowouldhavethought.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "whowouldhavethought_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "zhengelss_aditions:exposedcopperarmour_chestplate"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "minecraft:story/upgrade_tools"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zhengelss_aditions:block/andesite",
+    "up": "zhengelss_aditions:block/andesite",
+    "north": "zhengelss_aditions:block/andesite",
+    "east": "zhengelss_aditions:block/andesite",
+    "south": "zhengelss_aditions:block/andesite",
+    "west": "zhengelss_aditions:block/andesite",
+    "particle": "zhengelss_aditions:block/andesite"
+  },
+  "render_type": "solid"
+}

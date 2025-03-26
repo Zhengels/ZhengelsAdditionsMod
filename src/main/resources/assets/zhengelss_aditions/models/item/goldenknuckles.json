@@ -1,0 +1,7 @@
+{
+  "parent": "zhengelss_aditions:custom/golden_knuckles",
+  "textures": {
+    "1": "zhengelss_aditions:block/golden_knuckles",
+    "particle": "minecraft:item/golden_sword"
+  }
+}

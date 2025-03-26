@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "zhengelss_aditions:xpstorage_9"
+    },
+    "title": {
+      "translate": "advancements.xpstoring.title"
+    },
+    "description": {
+      "translate": "advancements.xpstoring.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "xpstoring_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "zhengelss_aditions:lostsouls"
+}

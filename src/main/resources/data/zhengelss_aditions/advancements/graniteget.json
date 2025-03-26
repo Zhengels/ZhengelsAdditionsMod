@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "graniteget_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:granite"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "zhengelss_aditions:craftgraniteaxe",
+      "zhengelss_aditions:craftgranitepickaxe",
+      "zhengelss_aditions:craftgranitehoe",
+      "zhengelss_aditions:craftgraniteshovel",
+      "zhengelss_aditions:craftgranitesword",
+      "zhengelss_aditions:granitescythecraft"
+    ]
+  }
+}

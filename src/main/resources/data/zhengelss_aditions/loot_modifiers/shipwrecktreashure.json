@@ -1,0 +1,10 @@
+{
+  "type": "zhengelss_aditions:zhengelss_aditions_loot_modifier",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "chests/shipwreck_treasure"
+    }
+  ],
+  "lootTable": "minecraft:chests/exp_2"
+}

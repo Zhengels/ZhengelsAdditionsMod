@@ -1,0 +1,7 @@
+{
+  "parent": "zhengelss_aditions:custom/diamond_knuckles",
+  "textures": {
+    "1": "zhengelss_aditions:block/diamond_knuckles",
+    "particle": "minecraft:item/diamond_sword"
+  }
+}

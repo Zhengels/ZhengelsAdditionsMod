@@ -1,0 +1,10 @@
+{
+  "parent": "zhengelss_aditions:custom/weathered_amethyst_lamp_on",
+  "textures": {
+    "all": "zhengelss_aditions:block/weathered_copper",
+    "particle": "zhengelss_aditions:block/weathered_copper",
+    "2": "zhengelss_aditions:block/weathered_amethist_lamp_bottom_on",
+    "3": "zhengelss_aditions:block/amethist_lamp_top_on"
+  },
+  "render_type": "cutout"
+}

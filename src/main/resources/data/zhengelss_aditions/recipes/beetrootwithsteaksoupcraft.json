@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:cooked_beef"
+    },
+    {
+      "item": "minecraft:beetroot_soup"
+    }
+  ],
+  "result": {
+    "item": "zhengelss_aditions:beetrootwithsteaksoup",
+    "count": 1
+  }
+}

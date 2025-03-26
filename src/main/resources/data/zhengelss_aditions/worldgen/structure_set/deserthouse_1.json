@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "zhengelss_aditions:deserthouse_1",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 40,
+    "separation": 20,
+    "salt": 67004926
+  }
+}

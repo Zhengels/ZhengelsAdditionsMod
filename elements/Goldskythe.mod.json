@@ -1,0 +1,42 @@
+{
+  "_fv": 73,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Pickaxe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "gold_skythe",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Golden scythe",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "TOOLS"
+      }
+    ],
+    "efficiency": 12.0,
+    "attackSpeed": 1.0,
+    "enchantability": 26,
+    "damageVsEntity": 5.0,
+    "usageCount": 32,
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "Items.GOLD_INGOT"
+      }
+    ],
+    "immuneToFire": false,
+    "blockDropsTier": "GOLD",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedOnBlock": {
+      "name": "Ironskytheharvest"
+    }
+  }
+}

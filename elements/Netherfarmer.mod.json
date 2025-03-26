@@ -1,0 +1,74 @@
+{
+  "_fv": 73,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Nether farmer",
+    "supportedSlots": "any",
+    "weight": 3,
+    "anvilCost": 1,
+    "maxLevel": 1,
+    "damageModifier": 0,
+    "incompatibleEnchantments": [
+      {
+        "value": "CUSTOM:Autofill"
+      }
+    ],
+    "supportedItems": [
+      {
+        "value": "CUSTOM:Woodenscythe"
+      },
+      {
+        "value": "CUSTOM:Stonescythe"
+      },
+      {
+        "value": "CUSTOM:Andesitescythe"
+      },
+      {
+        "value": "CUSTOM:Dioritescythe"
+      },
+      {
+        "value": "CUSTOM:Granitescythe"
+      },
+      {
+        "value": "CUSTOM:Copperscythe"
+      },
+      {
+        "value": "CUSTOM:Exposedcopperskythe"
+      },
+      {
+        "value": "CUSTOM:Weatheredcopperskythe"
+      },
+      {
+        "value": "CUSTOM:Oxidizedcopperskythe"
+      },
+      {
+        "value": "CUSTOM:Ironscythe"
+      },
+      {
+        "value": "CUSTOM:Diamondskythe"
+      },
+      {
+        "value": "CUSTOM:Amethystscythe"
+      },
+      {
+        "value": "CUSTOM:Goldskythe"
+      },
+      {
+        "value": "CUSTOM:Netheriteskythe"
+      },
+      {
+        "value": "CUSTOM:Waxedcopperskythe"
+      },
+      {
+        "value": "CUSTOM:Waxedexposedcopperskythe"
+      },
+      {
+        "value": "CUSTOM:Waxedweatheredcopperskythe"
+      }
+    ],
+    "isTreasureEnchantment": false,
+    "isCurse": false,
+    "canGenerateInLootTables": true,
+    "canVillagerTrade": true
+  }
+}

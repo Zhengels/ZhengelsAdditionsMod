@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "zhengelss_aditions:block/lightingrune"
+    },
+    "powered=true": {
+      "model": "zhengelss_aditions:block/lightingrune_down"
+    }
+  }
+}

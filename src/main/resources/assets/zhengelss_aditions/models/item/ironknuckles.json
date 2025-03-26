@@ -1,0 +1,7 @@
+{
+  "parent": "zhengelss_aditions:custom/iron_knuckles",
+  "textures": {
+    "1": "zhengelss_aditions:block/iron_knuckles",
+    "particle": "minecraft:item/iron_sword"
+  }
+}

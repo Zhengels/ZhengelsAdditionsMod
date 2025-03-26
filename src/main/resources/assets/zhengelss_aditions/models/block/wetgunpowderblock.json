@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zhengelss_aditions:block/wet_gunpowder_block",
+    "up": "zhengelss_aditions:block/wet_gunpowder_block",
+    "north": "zhengelss_aditions:block/wet_gunpowder_block",
+    "east": "zhengelss_aditions:block/wet_gunpowder_block",
+    "south": "zhengelss_aditions:block/wet_gunpowder_block",
+    "west": "zhengelss_aditions:block/wet_gunpowder_block",
+    "particle": "zhengelss_aditions:block/sand"
+  },
+  "render_type": "solid"
+}

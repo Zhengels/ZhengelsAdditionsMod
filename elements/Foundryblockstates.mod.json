@@ -1,0 +1,22 @@
+{
+  "_fv": 73,
+  "_type": "blockstates",
+  "definition": {
+    "block": "Foundry",
+    "blockstateList": [
+      {
+        "texture": "bricks",
+        "textureTop": "doundry_up_lit",
+        "textureLeft": "bricks",
+        "textureFront": "foundry_side_work",
+        "textureRight": "bricks",
+        "textureBack": "bricks",
+        "particleTexture": "",
+        "renderType": 0,
+        "customModelName": "Normal",
+        "luminance": 7,
+        "boundingBoxes": []
+      }
+    ]
+  }
+}

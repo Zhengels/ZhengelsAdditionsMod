@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "tag": "zhengelss_aditions:apple_candy"
+    },
+    "b": {
+      "item": "minecraft:pink_dye"
+    }
+  },
+  "result": {
+    "item": "zhengelss_aditions:pinkapplecandy",
+    "count": 8
+  }
+}

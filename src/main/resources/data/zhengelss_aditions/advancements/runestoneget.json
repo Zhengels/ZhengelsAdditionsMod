@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "runestoneget_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "zhengelss_aditions:runestone"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "zhengelss_aditions:lightingrunecraft",
+      "zhengelss_aditions:healrunecraft",
+      "zhengelss_aditions:firerunecraft",
+      "zhengelss_aditions:slownessrunecraft",
+      "zhengelss_aditions:xpstorercraft"
+    ]
+  },
+  "parent": "zhengelss_aditions:beautyandspeed"
+}

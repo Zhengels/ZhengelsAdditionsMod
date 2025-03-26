@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "tropicalfishget_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:tropical_fish"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "zhengelss_aditions:tropicalsushirollscraft"
+    ]
+  },
+  "parent": "zhengelss_aditions:beautyandspeed"
+}

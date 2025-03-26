@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "b": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "c": {
+      "tag": "zhengelss_aditions:xp"
+    }
+  },
+  "result": {
+    "item": "zhengelss_aditions:runestone",
+    "count": 1
+  }
+}

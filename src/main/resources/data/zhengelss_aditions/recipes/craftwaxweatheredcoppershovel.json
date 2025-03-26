@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "zhengelss_aditions:weatheredcoppershovel"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    }
+  ],
+  "result": {
+    "item": "zhengelss_aditions:waxedweatheredcoppershovel",
+    "count": 1
+  }
+}

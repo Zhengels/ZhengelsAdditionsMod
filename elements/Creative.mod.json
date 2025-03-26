@@ -1,0 +1,11 @@
+{
+  "_fv": 73,
+  "_type": "tab",
+  "definition": {
+    "name": "Creative",
+    "icon": {
+      "value": "Items.FIREWORK_CHARGE"
+    },
+    "showSearch": false
+  }
+}

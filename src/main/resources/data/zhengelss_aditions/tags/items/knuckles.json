@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "zhengelss_aditions:ironknuckles",
+    "zhengelss_aditions:goldenknuckles",
+    "zhengelss_aditions:diamondknuckles",
+    "zhengelss_aditions:netheriteknuckles",
+    "zhengelss_aditions:copperknuckles",
+    "zhengelss_aditions:exposedcopperknuckles",
+    "zhengelss_aditions:weatheredcopperknuckles",
+    "zhengelss_aditions:oxidizedcopperknuckles",
+    "zhengelss_aditions:waxedcopperknuckles",
+    "zhengelss_aditions:waxedexposedcopperknuckles",
+    "zhengelss_aditions:waxedweatheredcopperknuckles"
+  ]
+}

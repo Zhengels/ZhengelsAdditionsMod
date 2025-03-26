@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zhengelss_aditions:block/cristallized_sugar_3",
+    "up": "zhengelss_aditions:block/cristallized_sugar_3",
+    "north": "zhengelss_aditions:block/cristallized_sugar_3",
+    "east": "zhengelss_aditions:block/cristallized_sugar_3",
+    "south": "zhengelss_aditions:block/cristallized_sugar_3",
+    "west": "zhengelss_aditions:block/cristallized_sugar_3",
+    "particle": "zhengelss_aditions:block/cristallized_sugar_3"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "zhengelss_aditions:chocolate"
+    },
+    "b": {
+      "item": "minecraft:sweet_berries"
+    }
+  },
+  "result": {
+    "item": "zhengelss_aditions:chocolateberries",
+    "count": 1
+  }
+}

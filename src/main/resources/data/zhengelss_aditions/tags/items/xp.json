@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "zhengelss_aditions:xpstorage_1",
+    "zhengelss_aditions:xpstorage_2",
+    "zhengelss_aditions:xpstorage_3",
+    "zhengelss_aditions:xpstorage_4",
+    "zhengelss_aditions:xpstorage_5",
+    "zhengelss_aditions:xpstorage_6",
+    "zhengelss_aditions:xpstorage_7",
+    "zhengelss_aditions:xpstorage_8",
+    "zhengelss_aditions:xpstorage_9",
+    "zhengelss_aditions:xpstorage_10",
+    "zhengelss_aditions:expiriencebit",
+    "zhengelss_aditions:expiriencepiece",
+    "zhengelss_aditions:expirienceshard",
+    "zhengelss_aditions:expiriencerock",
+    "zhengelss_aditions:expirienceboulder",
+    "minecraft:experience_bottle"
+  ]
+}

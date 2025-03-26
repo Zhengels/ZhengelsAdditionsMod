@@ -1,0 +1,45 @@
+{
+  "_fv": 73,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Sword",
+    "renderType": 1,
+    "blockingRenderType": 0,
+    "texture": "light_sword_1",
+    "customModelName": "light_sword_3:default",
+    "blockingModelName": "Normal blocking",
+    "name": "Light sword III",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "COMBAT"
+      }
+    ],
+    "efficiency": 9.0,
+    "attackSpeed": 1.5999999999999999,
+    "enchantability": 20,
+    "damageVsEntity": 8.0,
+    "usageCount": 2031,
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "Items.NETHERITE_INGOT"
+      }
+    ],
+    "immuneToFire": false,
+    "blockDropsTier": "NETHERITE",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "Lightsword_hit"
+    },
+    "onEntitySwing": {
+      "name": "Lightsword_miss"
+    }
+  }
+}

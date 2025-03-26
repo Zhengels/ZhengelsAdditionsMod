@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "zhengelss_aditions:cristallizedsugaritem"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    },
+    {
+      "item": "zhengelss_aditions:cristallizedsugaritem"
+    }
+  ],
+  "result": {
+    "item": "zhengelss_aditions:chocolate",
+    "count": 1
+  }
+}

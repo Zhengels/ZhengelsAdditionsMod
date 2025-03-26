@@ -1,0 +1,8 @@
+{
+  "_fv": 73,
+  "_type": "lootmodifier",
+  "definition": {
+    "modifiedTable": "chests/buried_treasure",
+    "modifierTable": "Expspawn3"
+  }
+}

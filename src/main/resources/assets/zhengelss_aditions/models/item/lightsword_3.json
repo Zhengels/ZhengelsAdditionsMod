@@ -1,0 +1,7 @@
+{
+  "parent": "zhengelss_aditions:custom/light_sword_3",
+  "textures": {
+    "0": "zhengelss_aditions:block/light_sword_3",
+    "particle": "zhengelss_aditions:item/light_sword_1"
+  }
+}

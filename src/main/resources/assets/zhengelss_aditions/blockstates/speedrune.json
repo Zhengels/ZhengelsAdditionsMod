@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "zhengelss_aditions:block/speedrune"
+    },
+    "powered=true": {
+      "model": "zhengelss_aditions:block/speedrune_down"
+    }
+  }
+}

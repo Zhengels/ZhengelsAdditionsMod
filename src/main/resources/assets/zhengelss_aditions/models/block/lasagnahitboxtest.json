@@ -1,0 +1,10 @@
+{
+  "parent": "zhengelss_aditions:custom/lasaniahitbox",
+  "textures": {
+    "all": "minecraft:block/brain_coral_block",
+    "particle": "minecraft:block/brain_coral_block",
+    "1": "zhengelss_aditions:block/foundry_side_work",
+    "2": "zhengelss_aditions:block/foundry_side_work"
+  },
+  "render_type": "solid"
+}

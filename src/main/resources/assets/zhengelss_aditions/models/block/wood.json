@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraft:block/bee_nest_top",
+    "up": "minecraft:block/bee_nest_top",
+    "north": "minecraft:block/bee_nest_top",
+    "east": "minecraft:block/bee_nest_top",
+    "south": "minecraft:block/bee_nest_top",
+    "west": "minecraft:block/bee_nest_top",
+    "particle": "minecraft:block/bee_nest_top"
+  },
+  "render_type": "solid"
+}

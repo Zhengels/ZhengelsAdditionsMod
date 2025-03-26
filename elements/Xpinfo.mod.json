@@ -1,0 +1,26 @@
+{
+  "_fv": 73,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:Expiriencebit"
+      },
+      {
+        "value": "CUSTOM:Expiriencepiece"
+      },
+      {
+        "value": "CUSTOM:Expirienceshard"
+      },
+      {
+        "value": "CUSTOM:Expiriencerock"
+      },
+      {
+        "value": "CUSTOM:Expirienceboulder"
+      }
+    ],
+    "information": [
+      "Break it to get xp."
+    ]
+  }
+}

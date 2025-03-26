@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "zhengelss_aditions:amethystpickaxe"
+    },
+    "title": {
+      "translate": "advancements.beautyandspeed.title"
+    },
+    "description": {
+      "translate": "advancements.beautyandspeed.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "beautyandspeed_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "zhengelss_aditions:amethystpickaxe"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 15
+  },
+  "parent": "minecraft:story/smelt_iron"
+}

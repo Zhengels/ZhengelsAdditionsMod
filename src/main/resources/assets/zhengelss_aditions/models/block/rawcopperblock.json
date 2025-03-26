@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zhengelss_aditions:block/raw_copper_block",
+    "up": "zhengelss_aditions:block/raw_copper_block",
+    "north": "zhengelss_aditions:block/raw_copper_block",
+    "east": "zhengelss_aditions:block/raw_copper_block",
+    "south": "zhengelss_aditions:block/raw_copper_block",
+    "west": "zhengelss_aditions:block/raw_copper_block",
+    "particle": "zhengelss_aditions:block/raw_copper_block"
+  },
+  "render_type": "solid"
+}

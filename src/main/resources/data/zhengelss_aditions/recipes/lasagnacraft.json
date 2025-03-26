@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "ddd"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:bread"
+    },
+    "b": {
+      "tag": "zhengelss_aditions:meat"
+    },
+    "c": {
+      "item": "minecraft:beetroot_soup"
+    },
+    "d": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "zhengelss_aditions:lasagna",
+    "count": 1
+  }
+}

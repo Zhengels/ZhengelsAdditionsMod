@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.BREAD"
+      },
+      {
+        "value": "Items.BREAD"
+      },
+      {
+        "value": "Items.BREAD"
+      },
+      {
+        "value": "TAG:mod:meat"
+      },
+      {
+        "value": "Items.BEETROOT_SOUP"
+      },
+      {
+        "value": "TAG:mod:meat"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Lasagna"
+    },
+    "name": "lasagnacraft",
+    "namespace": "mod"
+  }
+}

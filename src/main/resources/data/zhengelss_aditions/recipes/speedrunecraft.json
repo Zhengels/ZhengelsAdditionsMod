@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "zhengelss_aditions:cristallizedsugaritem"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "zhengelss_aditions:runestone"
+    }
+  ],
+  "result": {
+    "item": "zhengelss_aditions:speedrune",
+    "count": 1
+  }
+}

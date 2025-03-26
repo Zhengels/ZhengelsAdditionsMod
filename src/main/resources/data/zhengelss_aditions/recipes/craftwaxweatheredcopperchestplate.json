@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "zhengelss_aditions:weatheredcopperarmour_chestplate"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    }
+  ],
+  "result": {
+    "item": "zhengelss_aditions:waxedweatheredcopperarmour_chestplate",
+    "count": 1
+  }
+}

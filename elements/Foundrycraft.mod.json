@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.BRICK_BLOCK"
+      },
+      {
+        "value": "Blocks.IRON_TRAPDOOR"
+      },
+      {
+        "value": "Blocks.BRICK_BLOCK"
+      },
+      {
+        "value": "Blocks.BRICK_BLOCK"
+      },
+      {
+        "value": "CUSTOM:Crucible"
+      },
+      {
+        "value": "Blocks.BRICK_BLOCK"
+      },
+      {
+        "value": "Blocks.BRICK_BLOCK"
+      },
+      {
+        "value": "Blocks.BRICK_BLOCK"
+      },
+      {
+        "value": "Blocks.BRICK_BLOCK"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Foundry"
+    },
+    "name": "foundrycraft",
+    "namespace": "mod"
+  }
+}

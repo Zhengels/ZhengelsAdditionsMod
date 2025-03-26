@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 8,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "TAG:mod:berry_candy"
+      },
+      {
+        "value": "TAG:mod:berry_candy"
+      },
+      {
+        "value": "TAG:mod:berry_candy"
+      },
+      {
+        "value": "TAG:mod:berry_candy"
+      },
+      {
+        "value": "Items.DYE#18"
+      },
+      {
+        "value": "TAG:mod:berry_candy"
+      },
+      {
+        "value": "TAG:mod:berry_candy"
+      },
+      {
+        "value": "TAG:mod:berry_candy"
+      },
+      {
+        "value": "TAG:mod:berry_candy"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Blueberrycandy"
+    },
+    "name": "berrycandycolor_8",
+    "namespace": "mod"
+  }
+}

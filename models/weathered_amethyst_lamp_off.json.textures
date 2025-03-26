@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "weathered_amethist_lamp_bottom_off",
+        "3": "amethist_lamp_top"
+      },
+      "name": "default"
+    }
+  }
+}

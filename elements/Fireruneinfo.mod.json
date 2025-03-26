@@ -1,0 +1,15 @@
+{
+  "_fv": 73,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:Firerune"
+      }
+    ],
+    "information": [
+      "Sets mobs on fire in 5 block radius.",
+      "If placed on amethyst block sets on fire players."
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "name": "zhengelss_aditions:swampcatacombs_corridor_debris",
+  "fallback": "zhengelss_aditions:swampcatacombs_corridor_debris",
+  "elements": [
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "zhengelss_aditions:swamp_catacombs_corridor_debris_1",
+        "projection": "rigid",
+        "processors": {
+          "processors": []
+        }
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "zhengelss_aditions:swamp_catacombs_corridor_debris_2",
+        "projection": "rigid",
+        "processors": {
+          "processors": []
+        }
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "zhengelss_aditions:swamp_catacombs_corridor_debris_3",
+        "projection": "rigid",
+        "processors": {
+          "processors": []
+        }
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "zhengelss_aditions:swamp_catacombs_corridor_debris_4",
+        "projection": "rigid",
+        "processors": {
+          "processors": []
+        }
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "zhengelss_aditions:swamp_catacombs_corridor_debris_5",
+        "projection": "rigid",
+        "processors": {
+          "processors": []
+        }
+      }
+    }
+  ]
+}

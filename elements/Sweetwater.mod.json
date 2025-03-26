@@ -1,0 +1,51 @@
+{
+  "_fv": 73,
+  "_type": "fluid",
+  "definition": {
+    "name": "Sweet water",
+    "bucketName": "Sweet water Bucket",
+    "textureStill": "water_flow",
+    "textureFlowing": "water_still",
+    "hasFog": false,
+    "tintType": "No tint",
+    "canMultiply": false,
+    "flowRate": 4,
+    "levelDecrease": 2,
+    "slopeFindDistance": 4,
+    "spawnParticles": false,
+    "dripParticle": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "flowStrength": 1.5,
+    "luminosity": 0,
+    "density": 1200,
+    "viscosity": 1500,
+    "temperature": 300,
+    "type": "WATER",
+    "generateBucket": true,
+    "textureBucket": "",
+    "creativeTabs": [
+      {
+        "value": "TOOLS"
+      }
+    ],
+    "emptySound": {
+      "value": ""
+    },
+    "rarity": "COMMON",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "resistance": 100.0,
+    "luminance": 0,
+    "lightOpacity": 5,
+    "emissiveRendering": false,
+    "tickRate": 1,
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "colorOnMap": "DEFAULT",
+    "onTickUpdate": {
+      "name": "Sweetwater_crystallize"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "zhengelss_aditions:custom/amethyst_lamp_on",
+  "textures": {
+    "all": "zhengelss_aditions:block/amethyst_shard",
+    "particle": "zhengelss_aditions:block/amethyst_shard",
+    "2": "zhengelss_aditions:block/amethist_lamp_bottom_on",
+    "3": "zhengelss_aditions:block/amethist_lamp_top_on"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "zhengelss_aditions:goldquarry",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 300,
+    "separation": 100,
+    "salt": 445914854
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zhengelss_aditions:block/oak_planks",
+    "up": "zhengelss_aditions:block/oak_planks",
+    "north": "zhengelss_aditions:block/oak_planks",
+    "east": "zhengelss_aditions:block/oak_planks",
+    "south": "zhengelss_aditions:block/oak_planks",
+    "west": "zhengelss_aditions:block/oak_planks",
+    "particle": "zhengelss_aditions:block/oak_planks"
+  },
+  "render_type": "solid"
+}

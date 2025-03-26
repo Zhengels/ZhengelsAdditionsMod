@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "zhengelss_aditions:cristallizedsugaritem"
+    }
+  },
+  "result": {
+    "item": "zhengelss_aditions:crystallizedsugar",
+    "count": 1
+  }
+}

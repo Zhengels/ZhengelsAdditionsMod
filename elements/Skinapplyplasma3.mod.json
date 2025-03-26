@@ -1,0 +1,28 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "Items.NETHERITE_SWORD"
+    },
+    "smithingInputAdditionStack": {
+      "value": "Items.REDSTONE"
+    },
+    "smithingInputTemplateStack": {
+      "value": "CUSTOM:Tooltrim"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:Firesword3"
+    },
+    "name": "skinapplyplasma_3",
+    "namespace": "mod"
+  }
+}

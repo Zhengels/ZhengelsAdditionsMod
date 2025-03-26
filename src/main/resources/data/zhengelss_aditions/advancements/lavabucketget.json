@@ -1,0 +1,33 @@
+{
+  "criteria": {
+    "lavabucketget_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:lava_bucket"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "zhengelss_aditions:craftlavaaxe",
+      "zhengelss_aditions:craftlavapickaxe",
+      "zhengelss_aditions:craftlavasword",
+      "zhengelss_aditions:craftlavashovel",
+      "zhengelss_aditions:craftlavahoe",
+      "zhengelss_aditions:craftlavaskythe",
+      "zhengelss_aditions:craftlavahammer"
+    ]
+  },
+  "parent": "zhengelss_aditions:beautyandspeed"
+}

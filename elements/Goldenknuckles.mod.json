@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Sword",
+    "renderType": 1,
+    "blockingRenderType": 0,
+    "texture": "minecraft:golden_sword",
+    "customModelName": "golden_knuckles:default",
+    "blockingModelName": "Normal blocking",
+    "name": "Golden knuckles",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "COMBAT"
+      }
+    ],
+    "efficiency": 12.0,
+    "attackSpeed": 10.0,
+    "enchantability": 14,
+    "damageVsEntity": 1.5,
+    "usageCount": 32,
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "Items.GOLD_INGOT"
+      }
+    ],
+    "immuneToFire": false,
+    "blockDropsTier": "GOLD",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "Knuckleshit"
+    },
+    "onItemInInventoryTick": {
+      "name": "Knucklestick"
+    },
+    "onItemInUseTick": {
+      "name": "Knucklesarmtick"
+    }
+  }
+}

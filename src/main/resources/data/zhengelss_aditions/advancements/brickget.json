@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "brickget_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:brick"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "zhengelss_aditions:foundrycraft"
+    ]
+  },
+  "parent": "zhengelss_aditions:beautyandspeed"
+}

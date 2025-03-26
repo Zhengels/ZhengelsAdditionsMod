@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zhengelss_aditions:block/obcidian_furnace_side",
+    "up": "zhengelss_aditions:block/obcidian_furnace_side",
+    "north": "zhengelss_aditions:block/obcidian_furnace_side",
+    "east": "zhengelss_aditions:block/obcidian_furnace_side",
+    "south": "zhengelss_aditions:block/obcidian_furnace_side",
+    "west": "zhengelss_aditions:block/obcidian_furnace_side",
+    "particle": "zhengelss_aditions:block/obcidian_furnace_side"
+  },
+  "render_type": "solid"
+}

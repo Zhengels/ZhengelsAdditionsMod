@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "zhengelss_aditions:block/brickslabvariations_1"
+    },
+    "type=top": {
+      "model": "zhengelss_aditions:block/brickslabvariations_1_top"
+    },
+    "type=double": {
+      "model": "zhengelss_aditions:block/brickslabvariations_1_full"
+    }
+  }
+}

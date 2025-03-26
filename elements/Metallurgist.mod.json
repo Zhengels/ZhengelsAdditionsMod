@@ -1,0 +1,16 @@
+{
+  "_fv": 73,
+  "_type": "villagerprofession",
+  "definition": {
+    "displayName": "Metallurgist",
+    "pointOfInterest": {
+      "value": "CUSTOM:Metalurgisttable"
+    },
+    "actionSound": {
+      "value": "entity.villager.work_armorer"
+    },
+    "hat": "None",
+    "professionTextureFile": "armorer.png",
+    "zombifiedProfessionTextureFile": "zombie_villager.png"
+  }
+}

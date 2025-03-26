@@ -1,0 +1,135 @@
+
+/*
+ *    MCreator note: This file will be REGENERATED on each build.
+ */
+package net.mcreator.zhengelssaditions.init;
+
+import net.minecraftforge.registries.RegistryObject;
+import net.minecraftforge.registries.ForgeRegistries;
+import net.minecraftforge.registries.DeferredRegister;
+
+import net.minecraft.world.level.block.Block;
+
+import net.mcreator.zhengelssaditions.block.XpfierBlock;
+import net.mcreator.zhengelssaditions.block.WoodBlock;
+import net.mcreator.zhengelssaditions.block.WetgunpowderblockBlock;
+import net.mcreator.zhengelssaditions.block.WeatheredcopperlanternBlock;
+import net.mcreator.zhengelssaditions.block.WeatheredamethistlamponBlock;
+import net.mcreator.zhengelssaditions.block.WeatheredamethistlampBlock;
+import net.mcreator.zhengelssaditions.block.WaxedweatheredcopperlanternBlock;
+import net.mcreator.zhengelssaditions.block.WaxedweatheredamethystlampanBlock;
+import net.mcreator.zhengelssaditions.block.WaxedweatheredamethystlampBlock;
+import net.mcreator.zhengelssaditions.block.WaxedexposedcopperlanternBlock;
+import net.mcreator.zhengelssaditions.block.WaxedexposedAmethystlamponBlock;
+import net.mcreator.zhengelssaditions.block.WaxedexposedAmethystlampBlock;
+import net.mcreator.zhengelssaditions.block.WaxedcopperlanternBlock;
+import net.mcreator.zhengelssaditions.block.WaxedAmethystlamponBlock;
+import net.mcreator.zhengelssaditions.block.WaxedAmethystlampBlock;
+import net.mcreator.zhengelssaditions.block.SweetwaterBlock;
+import net.mcreator.zhengelssaditions.block.SugarblockBlock;
+import net.mcreator.zhengelssaditions.block.StonevariationBlock;
+import net.mcreator.zhengelssaditions.block.SpeedruneBlock;
+import net.mcreator.zhengelssaditions.block.SlowdownruneBlock;
+import net.mcreator.zhengelssaditions.block.ShrapneltntBlock;
+import net.mcreator.zhengelssaditions.block.SandstonevariationsBlock;
+import net.mcreator.zhengelssaditions.block.RawironblockBlock;
+import net.mcreator.zhengelssaditions.block.RawgoldblockBlock;
+import net.mcreator.zhengelssaditions.block.RawcopperblockBlock;
+import net.mcreator.zhengelssaditions.block.RandomoreBlock;
+import net.mcreator.zhengelssaditions.block.PrimedfirebombBlock;
+import net.mcreator.zhengelssaditions.block.PolishedobsidianBlock;
+import net.mcreator.zhengelssaditions.block.OxidizedcopperlanternBlock;
+import net.mcreator.zhengelssaditions.block.OxidizedamethistlamponBlock;
+import net.mcreator.zhengelssaditions.block.OxidizedamethistlampBlock;
+import net.mcreator.zhengelssaditions.block.ObsidianfurnaceBlock;
+import net.mcreator.zhengelssaditions.block.ObsidianbricksBlock;
+import net.mcreator.zhengelssaditions.block.OakvariationsBlock;
+import net.mcreator.zhengelssaditions.block.MetalurgisttableBlock;
+import net.mcreator.zhengelssaditions.block.LightingruneBlock;
+import net.mcreator.zhengelssaditions.block.LasagnahitboxtestBlock;
+import net.mcreator.zhengelssaditions.block.LasagnaBlock;
+import net.mcreator.zhengelssaditions.block.HealruneBlock;
+import net.mcreator.zhengelssaditions.block.GunpowderblockBlock;
+import net.mcreator.zhengelssaditions.block.FoundryBlock;
+import net.mcreator.zhengelssaditions.block.FireruneBlock;
+import net.mcreator.zhengelssaditions.block.FirebombBlock;
+import net.mcreator.zhengelssaditions.block.FireblockBlock;
+import net.mcreator.zhengelssaditions.block.ExposedcopperlanternBlock;
+import net.mcreator.zhengelssaditions.block.ExposedamethistlamponBlock;
+import net.mcreator.zhengelssaditions.block.ExposedamethistlampBlock;
+import net.mcreator.zhengelssaditions.block.ExplodingfirebombBlock;
+import net.mcreator.zhengelssaditions.block.CrystallizedsugarBlock;
+import net.mcreator.zhengelssaditions.block.CopperlanternBlock;
+import net.mcreator.zhengelssaditions.block.CobblestonevariationsblockBlock;
+import net.mcreator.zhengelssaditions.block.ClearcristallizedsugarBlock;
+import net.mcreator.zhengelssaditions.block.ChiseledcristallizedsugarBlock;
+import net.mcreator.zhengelssaditions.block.BricksvariationsBlock;
+import net.mcreator.zhengelssaditions.block.BrickstairsvariationsBlock;
+import net.mcreator.zhengelssaditions.block.Brickslabvariations1Block;
+import net.mcreator.zhengelssaditions.block.AmethystlamponBlock;
+import net.mcreator.zhengelssaditions.block.AmethystlampBlock;
+import net.mcreator.zhengelssaditions.ZhengelssAditionsMod;
+
+public class ZhengelssAditionsModBlocks {
+	public static final DeferredRegister<Block> REGISTRY = DeferredRegister.create(ForgeRegistries.BLOCKS, ZhengelssAditionsMod.MODID);
+	public static final RegistryObject<Block> GUNPOWDERBLOCK = REGISTRY.register("gunpowderblock", () -> new GunpowderblockBlock());
+	public static final RegistryObject<Block> RANDOMORE = REGISTRY.register("randomore", () -> new RandomoreBlock());
+	public static final RegistryObject<Block> STONEVARIATION = REGISTRY.register("stonevariation", () -> new StonevariationBlock());
+	public static final RegistryObject<Block> OAKVARIATIONS = REGISTRY.register("oakvariations", () -> new OakvariationsBlock());
+	public static final RegistryObject<Block> SANDSTONEVARIATIONS = REGISTRY.register("sandstonevariations", () -> new SandstonevariationsBlock());
+	public static final RegistryObject<Block> RAWIRONBLOCK = REGISTRY.register("rawironblock", () -> new RawironblockBlock());
+	public static final RegistryObject<Block> RAWGOLDBLOCK = REGISTRY.register("rawgoldblock", () -> new RawgoldblockBlock());
+	public static final RegistryObject<Block> RAWCOPPERBLOCK = REGISTRY.register("rawcopperblock", () -> new RawcopperblockBlock());
+	public static final RegistryObject<Block> BRICKSVARIATIONS = REGISTRY.register("bricksvariations", () -> new BricksvariationsBlock());
+	public static final RegistryObject<Block> BRICKSLABVARIATIONS_1 = REGISTRY.register("brickslabvariations_1", () -> new Brickslabvariations1Block());
+	public static final RegistryObject<Block> BRICKSTAIRSVARIATIONS = REGISTRY.register("brickstairsvariations", () -> new BrickstairsvariationsBlock());
+	public static final RegistryObject<Block> COBBLESTONEVARIATIONSBLOCK = REGISTRY.register("cobblestonevariationsblock", () -> new CobblestonevariationsblockBlock());
+	public static final RegistryObject<Block> WOOD = REGISTRY.register("wood", () -> new WoodBlock());
+	public static final RegistryObject<Block> AMETHYSTLAMPON = REGISTRY.register("amethystlampon", () -> new AmethystlamponBlock());
+	public static final RegistryObject<Block> AMETHYSTLAMP = REGISTRY.register("amethystlamp", () -> new AmethystlampBlock());
+	public static final RegistryObject<Block> COPPERLANTERN = REGISTRY.register("copperlantern", () -> new CopperlanternBlock());
+	public static final RegistryObject<Block> EXPOSEDAMETHISTLAMPON = REGISTRY.register("exposedamethistlampon", () -> new ExposedamethistlamponBlock());
+	public static final RegistryObject<Block> EXPOSEDAMETHISTLAMP = REGISTRY.register("exposedamethistlamp", () -> new ExposedamethistlampBlock());
+	public static final RegistryObject<Block> WEATHEREDAMETHISTLAMPON = REGISTRY.register("weatheredamethistlampon", () -> new WeatheredamethistlamponBlock());
+	public static final RegistryObject<Block> WEATHEREDAMETHISTLAMP = REGISTRY.register("weatheredamethistlamp", () -> new WeatheredamethistlampBlock());
+	public static final RegistryObject<Block> OXIDIZEDAMETHISTLAMPON = REGISTRY.register("oxidizedamethistlampon", () -> new OxidizedamethistlamponBlock());
+	public static final RegistryObject<Block> OXIDIZEDAMETHISTLAMP = REGISTRY.register("oxidizedamethistlamp", () -> new OxidizedamethistlampBlock());
+	public static final RegistryObject<Block> WAXED_AMETHYSTLAMPON = REGISTRY.register("waxed_amethystlampon", () -> new WaxedAmethystlamponBlock());
+	public static final RegistryObject<Block> WAXED_AMETHYSTLAMP = REGISTRY.register("waxed_amethystlamp", () -> new WaxedAmethystlampBlock());
+	public static final RegistryObject<Block> WAXEDEXPOSED_AMETHYSTLAMPON = REGISTRY.register("waxedexposed_amethystlampon", () -> new WaxedexposedAmethystlamponBlock());
+	public static final RegistryObject<Block> WAXEDEXPOSED_AMETHYSTLAMP = REGISTRY.register("waxedexposed_amethystlamp", () -> new WaxedexposedAmethystlampBlock());
+	public static final RegistryObject<Block> WAXEDWEATHEREDAMETHYSTLAMPAN = REGISTRY.register("waxedweatheredamethystlampan", () -> new WaxedweatheredamethystlampanBlock());
+	public static final RegistryObject<Block> WAXEDWEATHEREDAMETHYSTLAMP = REGISTRY.register("waxedweatheredamethystlamp", () -> new WaxedweatheredamethystlampBlock());
+	public static final RegistryObject<Block> EXPOSEDCOPPERLANTERN = REGISTRY.register("exposedcopperlantern", () -> new ExposedcopperlanternBlock());
+	public static final RegistryObject<Block> WEATHEREDCOPPERLANTERN = REGISTRY.register("weatheredcopperlantern", () -> new WeatheredcopperlanternBlock());
+	public static final RegistryObject<Block> OXIDIZEDCOPPERLANTERN = REGISTRY.register("oxidizedcopperlantern", () -> new OxidizedcopperlanternBlock());
+	public static final RegistryObject<Block> WAXEDCOPPERLANTERN = REGISTRY.register("waxedcopperlantern", () -> new WaxedcopperlanternBlock());
+	public static final RegistryObject<Block> WAXEDEXPOSEDCOPPERLANTERN = REGISTRY.register("waxedexposedcopperlantern", () -> new WaxedexposedcopperlanternBlock());
+	public static final RegistryObject<Block> WAXEDWEATHEREDCOPPERLANTERN = REGISTRY.register("waxedweatheredcopperlantern", () -> new WaxedweatheredcopperlanternBlock());
+	public static final RegistryObject<Block> WETGUNPOWDERBLOCK = REGISTRY.register("wetgunpowderblock", () -> new WetgunpowderblockBlock());
+	public static final RegistryObject<Block> METALURGISTTABLE = REGISTRY.register("metalurgisttable", () -> new MetalurgisttableBlock());
+	public static final RegistryObject<Block> SUGARBLOCK = REGISTRY.register("sugarblock", () -> new SugarblockBlock());
+	public static final RegistryObject<Block> SWEETWATER = REGISTRY.register("sweetwater", () -> new SweetwaterBlock());
+	public static final RegistryObject<Block> CRYSTALLIZEDSUGAR = REGISTRY.register("crystallizedsugar", () -> new CrystallizedsugarBlock());
+	public static final RegistryObject<Block> CLEARCRISTALLIZEDSUGAR = REGISTRY.register("clearcristallizedsugar", () -> new ClearcristallizedsugarBlock());
+	public static final RegistryObject<Block> CHISELEDCRISTALLIZEDSUGAR = REGISTRY.register("chiseledcristallizedsugar", () -> new ChiseledcristallizedsugarBlock());
+	public static final RegistryObject<Block> LIGHTINGRUNE = REGISTRY.register("lightingrune", () -> new LightingruneBlock());
+	public static final RegistryObject<Block> HEALRUNE = REGISTRY.register("healrune", () -> new HealruneBlock());
+	public static final RegistryObject<Block> FIRERUNE = REGISTRY.register("firerune", () -> new FireruneBlock());
+	public static final RegistryObject<Block> SLOWDOWNRUNE = REGISTRY.register("slowdownrune", () -> new SlowdownruneBlock());
+	public static final RegistryObject<Block> SPEEDRUNE = REGISTRY.register("speedrune", () -> new SpeedruneBlock());
+	public static final RegistryObject<Block> OBSIDIANFURNACE = REGISTRY.register("obsidianfurnace", () -> new ObsidianfurnaceBlock());
+	public static final RegistryObject<Block> POLISHEDOBSIDIAN = REGISTRY.register("polishedobsidian", () -> new PolishedobsidianBlock());
+	public static final RegistryObject<Block> OBSIDIANBRICKS = REGISTRY.register("obsidianbricks", () -> new ObsidianbricksBlock());
+	public static final RegistryObject<Block> FIREBOMB = REGISTRY.register("firebomb", () -> new FirebombBlock());
+	public static final RegistryObject<Block> PRIMEDFIREBOMB = REGISTRY.register("primedfirebomb", () -> new PrimedfirebombBlock());
+	public static final RegistryObject<Block> FIREBLOCK = REGISTRY.register("fireblock", () -> new FireblockBlock());
+	public static final RegistryObject<Block> EXPLODINGFIREBOMB = REGISTRY.register("explodingfirebomb", () -> new ExplodingfirebombBlock());
+	public static final RegistryObject<Block> SHRAPNELTNT = REGISTRY.register("shrapneltnt", () -> new ShrapneltntBlock());
+	public static final RegistryObject<Block> XPFIER = REGISTRY.register("xpfier", () -> new XpfierBlock());
+	public static final RegistryObject<Block> FOUNDRY = REGISTRY.register("foundry", () -> new FoundryBlock());
+	public static final RegistryObject<Block> LASAGNA = REGISTRY.register("lasagna", () -> new LasagnaBlock());
+	public static final RegistryObject<Block> LASAGNAHITBOXTEST = REGISTRY.register("lasagnahitboxtest", () -> new LasagnahitboxtestBlock());
+	// Start of user code block custom blocks
+	// End of user code block custom blocks
+}

@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "zhengelss_aditions:xpstorage_10"
+    },
+    "title": {
+      "translate": "advancements.expirienced.title"
+    },
+    "description": {
+      "translate": "advancements.expirienced.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "expirienced_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "zhengelss_aditions:xpstorage_10"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "zhengelss_aditions:xpstoring"
+}

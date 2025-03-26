@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "amethystget_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:sandstone"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "zhengelss_aditions:amethystcraftsword",
+      "zhengelss_aditions:amethystcraftaxe",
+      "zhengelss_aditions:amethystcraftpickaxe",
+      "zhengelss_aditions:amethystcraftshovel",
+      "zhengelss_aditions:amethystcrafthoe",
+      "zhengelss_aditions:amethystscythecraft"
+    ]
+  }
+}

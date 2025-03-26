@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:raw_iron",
+    "minecraft:detector_rail",
+    "minecraft:activator_rail",
+    "minecraft:chain"
+  ]
+}

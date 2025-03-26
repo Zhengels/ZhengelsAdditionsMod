@@ -1,0 +1,8 @@
+{
+  "_fv": 73,
+  "_type": "lootmodifier",
+  "definition": {
+    "modifiedTable": "chests/pillager_outpost",
+    "modifierTable": "Expspawn2"
+  }
+}

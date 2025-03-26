@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "zhengelss_aditions:tooltrim"
+  },
+  "base": {
+    "item": "minecraft:netherite_sword"
+  },
+  "addition": {
+    "item": "minecraft:emerald"
+  },
+  "result": {
+    "item": "zhengelss_aditions:emeraldsword_3"
+  }
+}

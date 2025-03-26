@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "zhengelss_aditions:textures/screens/hay_block_side.png",
+    "icon": {
+      "item": "minecraft:bread"
+    },
+    "title": {
+      "translate": "advancements.startcooking.title"
+    },
+    "description": {
+      "translate": "advancements.startcooking.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "startcooking_0": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

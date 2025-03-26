@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:light"
+    },
+    "title": {
+      "translate": "advancements.todaywedoalittlebitoftrolling.title"
+    },
+    "description": {
+      "translate": "advancements.todaywedoalittlebitoftrolling.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "todaywedoalittlebitoftrolling_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "zhengelss_aditions:diamond"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 999
+  },
+  "parent": "zhengelss_aditions:bigboom"
+}

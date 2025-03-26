@@ -1,0 +1,33 @@
+{
+  "criteria": {
+    "obsidianget_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:obsidian"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "zhengelss_aditions:obsidianstonecutter_1",
+      "zhengelss_aditions:obsidianstonecutter_2",
+      "zhengelss_aditions:obsidiantotemcraft",
+      "zhengelss_aditions:obsidianfurnacecraft",
+      "zhengelss_aditions:polishedobsidiancraft",
+      "zhengelss_aditions:obsidianbrickscraft",
+      "zhengelss_aditions:runestonecraft"
+    ]
+  },
+  "parent": "zhengelss_aditions:beautyandspeed"
+}

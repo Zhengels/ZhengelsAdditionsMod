@@ -1,0 +1,40 @@
+{
+  "criteria": {
+    "woodget_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:cobblestone"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "zhengelss_aditions:stonehammercraft",
+      "zhengelss_aditions:woodenhammercraft",
+      "zhengelss_aditions:andesitehammercraft",
+      "zhengelss_aditions:granitehammercraft",
+      "zhengelss_aditions:dioritehammercraft",
+      "zhengelss_aditions:deepslatehammercraft",
+      "zhengelss_aditions:amethysthammercraft",
+      "zhengelss_aditions:copperhammercraft",
+      "zhengelss_aditions:ironhammercraft",
+      "zhengelss_aditions:goldenhammercraft",
+      "zhengelss_aditions:diamondhammercraft",
+      "zhengelss_aditions:netheritehammercraft",
+      "zhengelss_aditions:exposedcopperhammerwax",
+      "zhengelss_aditions:copperhammerwax",
+      "zhengelss_aditions:weatheredcopperhammerwax"
+    ]
+  }
+}

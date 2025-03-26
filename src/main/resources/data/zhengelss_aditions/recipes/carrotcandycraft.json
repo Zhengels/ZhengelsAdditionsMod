@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "tag": "zhengelss_aditions:all_candy"
+    },
+    "b": {
+      "item": "minecraft:carrot"
+    }
+  },
+  "result": {
+    "item": "zhengelss_aditions:whitecarrotcandy",
+    "count": 8
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "zhengelss_aditions:runestone"
+    }
+  ],
+  "result": {
+    "item": "zhengelss_aditions:firerune",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zhengelss_aditions:block/bricks",
+    "up": "zhengelss_aditions:block/doundry_up_lit",
+    "north": "zhengelss_aditions:block/foundry_side_work",
+    "east": "zhengelss_aditions:block/bricks",
+    "south": "zhengelss_aditions:block/bricks",
+    "west": "zhengelss_aditions:block/bricks",
+    "particle": "minecraft:block/bricks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "blockstates",
+  "definition": {
+    "block": "Obsidianfurnace",
+    "blockstateList": [
+      {
+        "texture": "ret",
+        "textureTop": "ret",
+        "textureLeft": "obcidian_furnace_side",
+        "textureFront": "obsidian_furnace_face",
+        "textureRight": "obcidian_furnace_side",
+        "textureBack": "obcidian_furnace_side",
+        "particleTexture": "",
+        "renderType": 0,
+        "customModelName": "Normal",
+        "luminance": 0,
+        "boundingBoxes": []
+      },
+      {
+        "texture": "ret",
+        "textureTop": "ret",
+        "textureLeft": "obcidian_furnace_side",
+        "textureFront": "obsidian_furnace_lit",
+        "textureRight": "obcidian_furnace_side",
+        "textureBack": "obcidian_furnace_side",
+        "particleTexture": "",
+        "renderType": 0,
+        "customModelName": "Normal",
+        "luminance": 0,
+        "boundingBoxes": []
+      },
+      {
+        "texture": "hot_furnace_top",
+        "textureTop": "hot_furnace_top",
+        "textureLeft": "obcidian_furnace_side",
+        "textureFront": "obsidian_furnace_hot",
+        "textureRight": "obcidian_furnace_side",
+        "textureBack": "obcidian_furnace_side",
+        "particleTexture": "",
+        "renderType": 0,
+        "customModelName": "Normal",
+        "luminance": 0,
+        "boundingBoxes": []
+      }
+    ]
+  }
+}

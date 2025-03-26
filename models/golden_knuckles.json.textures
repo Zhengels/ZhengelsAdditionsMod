@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "golden_knuckles"
+      },
+      "name": "default"
+    }
+  }
+}

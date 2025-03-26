@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:honeycomb"
+    },
+    {
+      "item": "zhengelss_aditions:copperknuckles"
+    }
+  ],
+  "result": {
+    "item": "zhengelss_aditions:waxedcopperknuckles",
+    "count": 1
+  }
+}

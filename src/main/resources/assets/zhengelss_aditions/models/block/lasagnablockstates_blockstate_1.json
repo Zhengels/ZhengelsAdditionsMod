@@ -1,0 +1,11 @@
+{
+  "parent": "zhengelss_aditions:custom/lasania_eat_2",
+  "textures": {
+    "all": "zhengelss_aditions:block/lasania",
+    "particle": "zhengelss_aditions:block/lasania",
+    "0": "zhengelss_aditions:block/folga_2",
+    "1": "zhengelss_aditions:block/lasania_side",
+    "2": "zhengelss_aditions:block/lasania"
+  },
+  "render_type": "solid"
+}

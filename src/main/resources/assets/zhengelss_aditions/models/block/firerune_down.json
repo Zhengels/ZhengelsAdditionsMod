@@ -1,0 +1,8 @@
+{
+  "parent": "block/pressure_plate_down",
+  "textures": {
+    "particle": "zhengelss_aditions:block/fire_rune",
+    "texture": "zhengelss_aditions:block/fire_rune"
+  },
+  "render_type": "cutout_mipped"
+}

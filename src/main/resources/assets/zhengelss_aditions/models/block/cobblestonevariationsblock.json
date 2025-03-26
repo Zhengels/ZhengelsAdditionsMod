@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zhengelss_aditions:block/cobblestone",
+    "up": "zhengelss_aditions:block/cobblestone",
+    "north": "zhengelss_aditions:block/cobblestone",
+    "east": "zhengelss_aditions:block/cobblestone",
+    "south": "zhengelss_aditions:block/cobblestone",
+    "west": "zhengelss_aditions:block/cobblestone",
+    "particle": "zhengelss_aditions:block/cobblestone"
+  },
+  "render_type": "solid"
+}

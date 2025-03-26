@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "zhengelss_aditions:expiriencebit"
+    },
+    "title": {
+      "translate": "advancements.lostsouls.title"
+    },
+    "description": {
+      "translate": "advancements.lostsouls.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "lostsouls_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "zhengelss_aditions:expiriencebit"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "minecraft:adventure/adventuring_time"
+}

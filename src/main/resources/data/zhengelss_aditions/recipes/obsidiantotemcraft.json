@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:redstone"
+    },
+    "b": {
+      "item": "minecraft:obsidian"
+    },
+    "c": {
+      "item": "minecraft:crying_obsidian"
+    }
+  },
+  "result": {
+    "item": "zhengelss_aditions:obsidiantotem",
+    "count": 1
+  }
+}

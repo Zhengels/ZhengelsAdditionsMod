@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:bricks"
+    },
+    "b": {
+      "item": "minecraft:iron_trapdoor"
+    },
+    "c": {
+      "item": "zhengelss_aditions:crucible"
+    }
+  },
+  "result": {
+    "item": "zhengelss_aditions:foundry",
+    "count": 1
+  }
+}

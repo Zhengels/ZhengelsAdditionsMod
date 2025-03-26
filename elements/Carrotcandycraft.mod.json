@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 8,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "TAG:mod:all_candy"
+      },
+      {
+        "value": "TAG:mod:all_candy"
+      },
+      {
+        "value": "TAG:mod:all_candy"
+      },
+      {
+        "value": "TAG:mod:all_candy"
+      },
+      {
+        "value": "Items.CARROT"
+      },
+      {
+        "value": "TAG:mod:all_candy"
+      },
+      {
+        "value": "TAG:mod:all_candy"
+      },
+      {
+        "value": "TAG:mod:all_candy"
+      },
+      {
+        "value": "TAG:mod:all_candy"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Whitecarrotcandy"
+    },
+    "name": "carrotcandycraft",
+    "namespace": "mod"
+  }
+}

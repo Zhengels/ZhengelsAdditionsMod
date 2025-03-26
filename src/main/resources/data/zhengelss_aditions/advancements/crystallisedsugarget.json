@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "crystallisedsugarget_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "zhengelss_aditions:cristallizedsugaritem"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "zhengelss_aditions:candycraft",
+      "zhengelss_aditions:cristallizedsugarblockcraft",
+      "zhengelss_aditions:sugarblockmelt",
+      "zhengelss_aditions:cristallizedsugarmelt",
+      "zhengelss_aditions:sugarmelt",
+      "zhengelss_aditions:cristallizedsugarclear",
+      "zhengelss_aditions:chiseledcristallizedsugarcraft",
+      "zhengelss_aditions:caramelcraft_1",
+      "zhengelss_aditions:caramelcraft_2"
+    ]
+  },
+  "parent": "zhengelss_aditions:beautyandspeed"
+}

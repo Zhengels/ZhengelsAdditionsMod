@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "zhengelss_aditions:tooltrim"
+  },
+  "base": {
+    "item": "minecraft:iron_sword"
+  },
+  "addition": {
+    "item": "minecraft:redstone"
+  },
+  "result": {
+    "item": "zhengelss_aditions:firesword"
+  }
+}

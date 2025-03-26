@@ -1,0 +1,15 @@
+{
+  "_fv": 73,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:Lightingrune"
+      }
+    ],
+    "information": [
+      "Strikes mobs with lighting in 5 block radius.",
+      "If placed on amethyst block strikes players."
+    ]
+  }
+}

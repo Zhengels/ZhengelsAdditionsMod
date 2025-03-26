@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zhengelss_aditions:block/fire_block",
+    "up": "zhengelss_aditions:block/fire_block",
+    "north": "zhengelss_aditions:block/fire_block",
+    "east": "zhengelss_aditions:block/fire_block",
+    "south": "zhengelss_aditions:block/fire_block",
+    "west": "zhengelss_aditions:block/fire_block",
+    "particle": "zhengelss_aditions:block/fire_block"
+  },
+  "render_type": "translucent"
+}

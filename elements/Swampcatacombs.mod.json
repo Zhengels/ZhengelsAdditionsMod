@@ -1,0 +1,310 @@
+{
+  "_fv": 73,
+  "_type": "structure",
+  "definition": {
+    "structure": "swamp_catacombs_spawn",
+    "projection": "rigid",
+    "ignoredBlocks": [
+      {
+        "value": "Blocks.STRUCTURE_BLOCK"
+      }
+    ],
+    "spacing": 5,
+    "separation": 2,
+    "restrictionBiomes": [
+      {
+        "value": "mangrove_swamp"
+      },
+      {
+        "value": "swamp"
+      }
+    ],
+    "terrainAdaptation": "none",
+    "generationStep": "SURFACE_STRUCTURES",
+    "surfaceDetectionType": "WORLD_SURFACE_WG",
+    "useStartHeight": false,
+    "startHeightProviderType": "UNIFORM",
+    "startHeightMin": 0,
+    "startHeightMax": 128,
+    "size": 1,
+    "maxDistanceFromCenter": 64,
+    "jigsawPools": [
+      {
+        "poolName": "debris",
+        "fallbackPool": "zhengelss_aditions:swampcatacombs_debris",
+        "poolParts": [
+          {
+            "weight": 4,
+            "structure": "swamp_catacombs_debris_10",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 4,
+            "structure": "swamp_catacombs_debris_11",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 4,
+            "structure": "swamp_catacombs_debris_12",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 4,
+            "structure": "swamp_catacombs_debris_13",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 4,
+            "structure": "swamp_catacombs_debris_15",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 4,
+            "structure": "swamp_catacombs_debris_16",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 3,
+            "structure": "swamp_catacombs_debris_2",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 3,
+            "structure": "swamp_catacombs_debris_3",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 3,
+            "structure": "swamp_catacombs_debris_4",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 4,
+            "structure": "swamp_catacombs_debris_5",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 4,
+            "structure": "swamp_catacombs_debris_6",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 4,
+            "structure": "swamp_catacombs_debris_7",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 4,
+            "structure": "swamp_catacombs_debris_8",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 4,
+            "structure": "swamp_catacombs_debris_9",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 2,
+            "structure": "swamp_catacombs_parkour_chest_1",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 2,
+            "structure": "swamp_catacombs_parkour_chest_2",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 2,
+            "structure": "swamp_catacombs_parkour_chest_3",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 2,
+            "structure": "swamp_catacombs_parkour_spawner_1",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 2,
+            "structure": "swamp_catacombs_parkour_spawner_2",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 2,
+            "structure": "swamp_catacombs_parkour_spawner_3",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 2,
+            "structure": "swamp_catacombs_parkour_spawner_4",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 15,
+            "structure": "swamp_catacombs_parkour_nothing",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 3,
+            "structure": "swamp_catacombs_debris_1",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          }
+        ]
+      },
+      {
+        "poolName": "rooms",
+        "fallbackPool": "",
+        "poolParts": [
+          {
+            "weight": 1,
+            "structure": "swamp_catacombs_parkour_1",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 1,
+            "structure": "swamp_catacombs_trapcorridor_1",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 4,
+            "structure": "swamp_catacombs_corridor_straight_1",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 4,
+            "structure": "swamp_catacombs_corridor_straight_2",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 1,
+            "structure": "swamp_catacombs_trapped_down_1",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 1,
+            "structure": "swamp_catacombs_trapcorridor_2",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          }
+        ]
+      },
+      {
+        "poolName": "entrancedebris",
+        "fallbackPool": "",
+        "poolParts": [
+          {
+            "weight": 1,
+            "structure": "archeology_2_entrance",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 1,
+            "structure": "archeology_2_entrance",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 1,
+            "structure": "archeology_2_entrance",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 1,
+            "structure": "archeology_2_entrance",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          }
+        ]
+      },
+      {
+        "poolName": "entrance",
+        "fallbackPool": "",
+        "poolParts": [
+          {
+            "weight": 1,
+            "structure": "archeology_2_entrance",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          }
+        ]
+      },
+      {
+        "poolName": "corridor_debris",
+        "fallbackPool": "zhengelss_aditions:swampcatacombs_corridor_debris",
+        "poolParts": [
+          {
+            "weight": 10,
+            "structure": "swamp_catacombs_corridor_debris_1",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 1,
+            "structure": "swamp_catacombs_corridor_debris_2",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 1,
+            "structure": "swamp_catacombs_corridor_debris_3",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 1,
+            "structure": "swamp_catacombs_corridor_debris_4",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 1,
+            "structure": "swamp_catacombs_corridor_debris_5",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          }
+        ]
+      },
+      {
+        "poolName": "entrances",
+        "fallbackPool": "",
+        "poolParts": [
+          {
+            "weight": 1,
+            "structure": "swamp_catacombs_entrance_1",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          }
+        ]
+      }
+    ]
+  }
+}

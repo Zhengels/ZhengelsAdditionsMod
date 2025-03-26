@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "oxidized_copper_knuckles"
+      },
+      "name": "default"
+    }
+  }
+}

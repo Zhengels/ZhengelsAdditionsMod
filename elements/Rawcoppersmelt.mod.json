@@ -1,0 +1,22 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 6.3,
+    "cookingTime": 1800,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "Blocks.RAW_COPPER_BLOCK"
+    },
+    "smeltingReturnStack": {
+      "value": "Blocks.COPPER_BLOCK"
+    },
+    "name": "rawcoppersmelt",
+    "namespace": "mod"
+  }
+}

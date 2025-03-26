@@ -1,0 +1,7 @@
+{
+  "parent": "zhengelss_aditions:custom/emerald_sword_2",
+  "textures": {
+    "2": "zhengelss_aditions:block/emerald_sword_2",
+    "particle": "zhengelss_aditions:item/emerald_sword_1"
+  }
+}

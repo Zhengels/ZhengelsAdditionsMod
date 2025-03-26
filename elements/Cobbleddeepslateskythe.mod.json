@@ -1,0 +1,42 @@
+{
+  "_fv": 73,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Sword",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "cobbleddeepslate_skythe",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Cobbleddeepslate scythe",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "TOOLS"
+      }
+    ],
+    "efficiency": 3.5,
+    "attackSpeed": 1.0,
+    "enchantability": 5,
+    "damageVsEntity": 6.0,
+    "usageCount": 160,
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "Blocks.COBBLED_DEEPSLATE"
+      }
+    ],
+    "immuneToFire": false,
+    "blockDropsTier": "STONE",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedOnBlock": {
+      "name": "Stonescytheharvest"
+    }
+  }
+}

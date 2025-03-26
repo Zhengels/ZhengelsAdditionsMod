@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "codget_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:cod"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "zhengelss_aditions:codsushirollscraft"
+    ]
+  },
+  "parent": "zhengelss_aditions:beautyandspeed"
+}

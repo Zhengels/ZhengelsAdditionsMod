@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "zhengelss_aditions:gunpowderblock"
+    },
+    "title": {
+      "translate": "advancements.bigboom.title"
+    },
+    "description": {
+      "translate": "advancements.bigboom.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "bigboom_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "zhengelss_aditions:gunpowderblock"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 8
+  },
+  "parent": "minecraft:adventure/kill_a_mob"
+}

@@ -1,0 +1,52 @@
+{
+  "_fv": 73,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Rage",
+    "supportedSlots": "any",
+    "weight": 2,
+    "anvilCost": 1,
+    "maxLevel": 1,
+    "damageModifier": 0,
+    "incompatibleEnchantments": [],
+    "supportedItems": [
+      {
+        "value": "CUSTOM:Ironknuckles"
+      },
+      {
+        "value": "CUSTOM:Goldenknuckles"
+      },
+      {
+        "value": "CUSTOM:Diamondknuckles"
+      },
+      {
+        "value": "CUSTOM:Netheriteknuckles"
+      },
+      {
+        "value": "CUSTOM:Copperknuckles"
+      },
+      {
+        "value": "CUSTOM:Exposedcopperknuckles"
+      },
+      {
+        "value": "CUSTOM:Weatheredcopperknuckles"
+      },
+      {
+        "value": "CUSTOM:Oxidizedcopperknuckles"
+      },
+      {
+        "value": "CUSTOM:Waxedcopperknuckles"
+      },
+      {
+        "value": "CUSTOM:Waxedexposedcopperknuckles"
+      },
+      {
+        "value": "CUSTOM:Waxedweatheredcopperknuckles"
+      }
+    ],
+    "isTreasureEnchantment": false,
+    "isCurse": false,
+    "canGenerateInLootTables": true,
+    "canVillagerTrade": true
+  }
+}

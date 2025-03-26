@@ -1,0 +1,35 @@
+{
+  "criteria": {
+    "copperget_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:copper_ingot"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "zhengelss_aditions:craftcopperboots",
+      "zhengelss_aditions:craftcopperleggings",
+      "zhengelss_aditions:craftcopperchestplate",
+      "zhengelss_aditions:craftcopperhelmet",
+      "zhengelss_aditions:craftcopperaxe",
+      "zhengelss_aditions:craftcopperhoe",
+      "zhengelss_aditions:craftcoppershovel",
+      "zhengelss_aditions:craftcopperpickaxe",
+      "zhengelss_aditions:craftcoppersword",
+      "zhengelss_aditions:copperskythecraft"
+    ]
+  }
+}

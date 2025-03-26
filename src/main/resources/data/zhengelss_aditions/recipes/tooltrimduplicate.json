@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:cobblestone"
+    },
+    "b": {
+      "item": "zhengelss_aditions:tooltrim"
+    },
+    "c": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "zhengelss_aditions:tooltrim",
+    "count": 2
+  }
+}

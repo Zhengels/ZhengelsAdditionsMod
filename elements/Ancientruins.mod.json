@@ -1,0 +1,163 @@
+{
+  "_fv": 73,
+  "_type": "structure",
+  "definition": {
+    "structure": "start_1",
+    "projection": "rigid",
+    "ignoredBlocks": [
+      {
+        "value": "Blocks.STRUCTURE_BLOCK"
+      }
+    ],
+    "spacing": 40,
+    "separation": 20,
+    "restrictionBiomes": [
+      {
+        "value": "desert"
+      }
+    ],
+    "terrainAdaptation": "none",
+    "generationStep": "SURFACE_STRUCTURES",
+    "surfaceDetectionType": "WORLD_SURFACE_WG",
+    "useStartHeight": false,
+    "startHeightProviderType": "UNIFORM",
+    "startHeightMin": 0,
+    "startHeightMax": 128,
+    "size": 7,
+    "maxDistanceFromCenter": 64,
+    "jigsawPools": [
+      {
+        "poolName": "roads",
+        "fallbackPool": "",
+        "poolParts": [
+          {
+            "weight": 3,
+            "structure": "road_straight_1",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 3,
+            "structure": "road_straight_2",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 3,
+            "structure": "road_straight_3",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 3,
+            "structure": "road_straight_4",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 1,
+            "structure": "road_trade_1",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 2,
+            "structure": "road_corner_2",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 2,
+            "structure": "road_corner_1",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          }
+        ]
+      },
+      {
+        "poolName": "houses",
+        "fallbackPool": "",
+        "poolParts": [
+          {
+            "weight": 2,
+            "structure": "house_medium_1",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 2,
+            "structure": "house_medium_2",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 2,
+            "structure": "house_medium_3",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 2,
+            "structure": "house_medium_4",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 2,
+            "structure": "house_small_1",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 2,
+            "structure": "house_small_2",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 1,
+            "structure": "house_small_3",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 1,
+            "structure": "library_2",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 1,
+            "structure": "library_1",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 1,
+            "structure": "storage_1",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          },
+          {
+            "weight": 1,
+            "structure": "storage_2",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          }
+        ]
+      },
+      {
+        "poolName": "entrances",
+        "fallbackPool": "",
+        "poolParts": [
+          {
+            "weight": 1,
+            "structure": "entrance_1",
+            "projection": "rigid",
+            "ignoredBlocks": []
+          }
+        ]
+      }
+    ]
+  }
+}
