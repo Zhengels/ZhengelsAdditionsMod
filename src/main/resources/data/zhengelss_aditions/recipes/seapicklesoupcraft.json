@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bbb",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:seagrass"
+    },
+    "b": {
+      "item": "minecraft:sea_pickle"
+    },
+    "c": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "item": "zhengelss_aditions:seapicklesoup",
+    "count": 1
+  }
+}

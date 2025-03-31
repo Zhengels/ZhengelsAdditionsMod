@@ -1,0 +1,50 @@
+{
+  "display": {
+    "icon": {
+      "item": "zhengelss_aditions:chocolateapple"
+    },
+    "title": {
+      "translate": "advancements.eatallchocolatestuff.title"
+    },
+    "description": {
+      "translate": "advancements.eatallchocolatestuff.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "eatallchocolatestuff_0": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "zhengelss_aditions:chocolateapple"
+          ]
+        }
+      }
+    },
+    "eatallchocolatestuff_1": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "zhengelss_aditions:chocolateberries"
+          ]
+        }
+      }
+    },
+    "eatallchocolatestuff_2": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "zhengelss_aditions:chocolate"
+          ]
+        }
+      }
+    }
+  },
+  "parent": "zhengelss_aditions:craftchocolatebar"
+}

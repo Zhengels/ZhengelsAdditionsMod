@@ -1,0 +1,11 @@
+{
+  "parent": "zhengelss_aditions:custom/apple_pie",
+  "textures": {
+    "all": "zhengelss_aditions:block/apple_pie_top",
+    "particle": "zhengelss_aditions:block/apple_pie_top",
+    "0": "zhengelss_aditions:block/apple_pie_top",
+    "1": "zhengelss_aditions:block/pie_side",
+    "2": "zhengelss_aditions:block/pie_down"
+  },
+  "render_type": "solid"
+}

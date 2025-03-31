@@ -47,6 +47,8 @@ public class ZhengelssAditionsModTabs {
 				tabData.accept(ZhengelssAditionsModItems.XPSTORAGE_9.get());
 				tabData.accept(ZhengelssAditionsModItems.XPSTORAGE_10.get());
 				tabData.accept(ZhengelssAditionsModItems.COPPERTOOLOXIDIZETEST.get());
+				tabData.accept(ZhengelssAditionsModItems.ROTTENCOOKHATDISPLAYITEM.get());
+				tabData.accept(ZhengelssAditionsModItems.COOKHATDISPLAYITEM.get());
 			}).build());
 
 	@SubscribeEvent
@@ -273,6 +275,11 @@ public class ZhengelssAditionsModTabs {
 			tabData.accept(ZhengelssAditionsModBlocks.LASAGNA.get().asItem());
 			tabData.accept(ZhengelssAditionsModItems.SWEETBERRYICETEA.get());
 			tabData.accept(ZhengelssAditionsModItems.GLOWINGBERRYICETEA.get());
+			tabData.accept(ZhengelssAditionsModItems.VEGETABLESOUP.get());
+			tabData.accept(ZhengelssAditionsModItems.ROTTENSOUP.get());
+			tabData.accept(ZhengelssAditionsModItems.POISONOUSGOULASH.get());
+			tabData.accept(ZhengelssAditionsModItems.SEAPICKLESOUP.get());
+			tabData.accept(ZhengelssAditionsModBlocks.APPLEPIE.get().asItem());
 		} else if (tabData.getTabKey() == CreativeModeTabs.FUNCTIONAL_BLOCKS) {
 			tabData.accept(ZhengelssAditionsModBlocks.AMETHYSTLAMP.get().asItem());
 			tabData.accept(ZhengelssAditionsModBlocks.EXPOSEDAMETHISTLAMP.get().asItem());

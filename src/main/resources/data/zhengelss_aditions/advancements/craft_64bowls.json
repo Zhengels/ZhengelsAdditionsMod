@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:bowl"
+    },
+    "title": {
+      "translate": "advancements.craft_64bowls.title"
+    },
+    "description": {
+      "translate": "advancements.craft_64bowls.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "craft_64bowls_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:bowl"
+            ],
+            "count": {
+              "min": 64,
+              "max": 128
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 12
+  },
+  "parent": "zhengelss_aditions:craft_10bowls"
+}

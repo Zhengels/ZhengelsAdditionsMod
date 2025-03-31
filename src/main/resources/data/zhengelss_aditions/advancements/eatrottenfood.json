@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "item": "zhengelss_aditions:rottencookhatdisplayitem"
+    },
+    "title": {
+      "translate": "advancements.eatrottenfood.title"
+    },
+    "description": {
+      "translate": "advancements.eatrottenfood.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "eatrottenfood_0": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:rotten_flesh"
+          ]
+        }
+      }
+    },
+    "eatrottenfood_1": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "zhengelss_aditions:rottensoup"
+          ]
+        }
+      }
+    }
+  },
+  "parent": "zhengelss_aditions:craftrottensoup"
+}

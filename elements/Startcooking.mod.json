@@ -5,7 +5,7 @@
     "achievementName": "Cook",
     "achievementDescription": ".",
     "achievementIcon": {
-      "value": "Items.BREAD"
+      "value": "Blocks.FURNACE"
     },
     "background": "hay_block_side.png",
     "disableDisplay": false,

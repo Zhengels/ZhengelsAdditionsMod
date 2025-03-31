@@ -1,0 +1,195 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:chest"
+    },
+    "title": {
+      "translate": "advancements.eatall.title"
+    },
+    "description": {
+      "translate": "advancements.eatall.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "eatall_0": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "zhengelss_aditions:caramel"
+          ]
+        }
+      }
+    },
+    "eatall_1": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "zhengelss_aditions:whitecandy"
+          ]
+        }
+      }
+    },
+    "eatall_2": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "zhengelss_aditions:whitemeloncandy"
+          ]
+        }
+      }
+    },
+    "eatall_3": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "zhengelss_aditions:whitesugarcandy"
+          ]
+        }
+      }
+    },
+    "eatall_4": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "zhengelss_aditions:whiteapplecandy"
+          ]
+        }
+      }
+    },
+    "eatall_5": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "zhengelss_aditions:whitecarrotcandy"
+          ]
+        }
+      }
+    },
+    "eatall_6": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "zhengelss_aditions:whiteberrycandy"
+          ]
+        }
+      }
+    },
+    "eatall_7": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "zhengelss_aditions:candycane"
+          ]
+        }
+      }
+    },
+    "eatall_8": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "zhengelss_aditions:chocolate"
+          ]
+        }
+      }
+    },
+    "eatall_9": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "zhengelss_aditions:chocolateapple"
+          ]
+        }
+      }
+    },
+    "eatall_10": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "zhengelss_aditions:chocolateberries"
+          ]
+        }
+      }
+    },
+    "eatall_11": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "zhengelss_aditions:verysweetberries"
+          ]
+        }
+      }
+    },
+    "eatall_12": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "zhengelss_aditions:sweetberryicetea"
+          ]
+        }
+      }
+    },
+    "eatall_13": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "zhengelss_aditions:glowingberryicetea"
+          ]
+        }
+      }
+    },
+    "eatall_14": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:cookie"
+          ]
+        }
+      }
+    },
+    "eatall_15": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:block_state_property",
+            "block": "minecraft:cake"
+          }
+        ]
+      }
+    },
+    "eatall_16": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:block_state_property",
+            "block": "zhengelss_aditions:applepie"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 70
+  },
+  "parent": "zhengelss_aditions:eatallchocolatestuff"
+}

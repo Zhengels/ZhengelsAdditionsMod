@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "zhengelss_aditions:salmonsushirolls"
+    },
+    "title": {
+      "translate": "advancements.craft_64sushi.title"
+    },
+    "description": {
+      "translate": "advancements.craft_64sushi.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "craft_64sushi_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "zhengelss_aditions:salmonsushirolls"
+            ],
+            "count": {
+              "min": 64,
+              "max": 128
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 15
+  },
+  "parent": "zhengelss_aditions:eat_3sushi"
+}

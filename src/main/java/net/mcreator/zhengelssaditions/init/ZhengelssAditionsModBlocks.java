@@ -66,6 +66,7 @@ import net.mcreator.zhengelssaditions.block.ChiseledcristallizedsugarBlock;
 import net.mcreator.zhengelssaditions.block.BricksvariationsBlock;
 import net.mcreator.zhengelssaditions.block.BrickstairsvariationsBlock;
 import net.mcreator.zhengelssaditions.block.Brickslabvariations1Block;
+import net.mcreator.zhengelssaditions.block.ApplepieBlock;
 import net.mcreator.zhengelssaditions.block.AmethystlamponBlock;
 import net.mcreator.zhengelssaditions.block.AmethystlampBlock;
 import net.mcreator.zhengelssaditions.ZhengelssAditionsMod;
@@ -130,6 +131,7 @@ public class ZhengelssAditionsModBlocks {
 	public static final RegistryObject<Block> FOUNDRY = REGISTRY.register("foundry", () -> new FoundryBlock());
 	public static final RegistryObject<Block> LASAGNA = REGISTRY.register("lasagna", () -> new LasagnaBlock());
 	public static final RegistryObject<Block> LASAGNAHITBOXTEST = REGISTRY.register("lasagnahitboxtest", () -> new LasagnahitboxtestBlock());
+	public static final RegistryObject<Block> APPLEPIE = REGISTRY.register("applepie", () -> new ApplepieBlock());
 	// Start of user code block custom blocks
 	// End of user code block custom blocks
 }

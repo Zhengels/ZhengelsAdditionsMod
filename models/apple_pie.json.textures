@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "apple_pie_top",
+        "1": "pie_side",
+        "2": "pie_down"
+      },
+      "name": "default"
+    }
+  }
+}

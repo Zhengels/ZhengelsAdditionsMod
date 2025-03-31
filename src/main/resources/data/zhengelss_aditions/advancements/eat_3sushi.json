@@ -1,0 +1,50 @@
+{
+  "display": {
+    "icon": {
+      "item": "zhengelss_aditions:salmonsushirolls"
+    },
+    "title": {
+      "translate": "advancements.eat_3sushi.title"
+    },
+    "description": {
+      "translate": "advancements.eat_3sushi.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "eat_3sushi_0": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "zhengelss_aditions:codsushirolls"
+          ]
+        }
+      }
+    },
+    "eat_3sushi_1": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "zhengelss_aditions:salmonsushirolls"
+          ]
+        }
+      }
+    },
+    "eat_3sushi_2": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "zhengelss_aditions:tropicalsushirolls"
+          ]
+        }
+      }
+    }
+  },
+  "parent": "zhengelss_aditions:startcooking"
+}

@@ -1,0 +1,132 @@
+{
+  "_fv": 73,
+  "_type": "blockstates",
+  "definition": {
+    "block": "Applepie",
+    "blockstateList": [
+      {
+        "texture": "apple_pie_top",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "apple_pie_eat_1:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 1.0,
+            "my": 0.0,
+            "mz": 4.0,
+            "Mx": 15.0,
+            "My": 4.0,
+            "Mz": 15.0,
+            "subtract": false
+          },
+          {
+            "mx": 0.0,
+            "my": 4.0,
+            "mz": 4.0,
+            "Mx": 16.0,
+            "My": 5.0,
+            "Mz": 16.0,
+            "subtract": false
+          },
+          {
+            "mx": 2.0,
+            "my": 5.0,
+            "mz": 4.0,
+            "Mx": 14.0,
+            "My": 6.0,
+            "Mz": 14.0,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "apple_pie_top",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "apple_pie_eat_2:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 1.0,
+            "my": 0.0,
+            "mz": 8.0,
+            "Mx": 15.0,
+            "My": 4.0,
+            "Mz": 15.0,
+            "subtract": false
+          },
+          {
+            "mx": 0.0,
+            "my": 4.0,
+            "mz": 8.0,
+            "Mx": 16.0,
+            "My": 5.0,
+            "Mz": 16.0,
+            "subtract": false
+          },
+          {
+            "mx": 2.0,
+            "my": 5.0,
+            "mz": 8.0,
+            "Mx": 14.0,
+            "My": 6.0,
+            "Mz": 14.0,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "apple_pie_top",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "apple_pie_eat_3:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 1.0,
+            "my": 0.0,
+            "mz": 12.0,
+            "Mx": 15.0,
+            "My": 4.0,
+            "Mz": 15.0,
+            "subtract": false
+          },
+          {
+            "mx": 0.0,
+            "my": 4.0,
+            "mz": 12.0,
+            "Mx": 16.0,
+            "My": 5.0,
+            "Mz": 16.0,
+            "subtract": false
+          },
+          {
+            "mx": 2.0,
+            "my": 5.0,
+            "mz": 12.0,
+            "Mx": 14.0,
+            "My": 6.0,
+            "Mz": 14.0,
+            "subtract": false
+          }
+        ]
+      }
+    ]
+  }
+}

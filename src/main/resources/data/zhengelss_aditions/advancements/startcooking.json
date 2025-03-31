@@ -2,7 +2,7 @@
   "display": {
     "background": "zhengelss_aditions:textures/screens/hay_block_side.png",
     "icon": {
-      "item": "minecraft:bread"
+      "item": "minecraft:furnace"
     },
     "title": {
       "translate": "advancements.startcooking.title"

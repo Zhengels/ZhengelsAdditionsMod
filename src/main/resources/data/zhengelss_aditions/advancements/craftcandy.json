@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "zhengelss_aditions:whitecandy"
+    },
+    "title": {
+      "translate": "advancements.craftcandy.title"
+    },
+    "description": {
+      "translate": "advancements.craftcandy.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "craftcandy_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "zhengelss_aditions:whitecandy"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "zhengelss_aditions:craft_5caramel"
+}

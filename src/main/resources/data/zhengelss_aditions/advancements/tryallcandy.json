@@ -1,0 +1,83 @@
+{
+  "display": {
+    "icon": {
+      "item": "zhengelss_aditions:redcandy"
+    },
+    "title": {
+      "translate": "advancements.tryallcandy.title"
+    },
+    "description": {
+      "translate": "advancements.tryallcandy.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "tryallcandy_0": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "zhengelss_aditions:whitecandy"
+          ]
+        }
+      }
+    },
+    "tryallcandy_1": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "zhengelss_aditions:whitemeloncandy"
+          ]
+        }
+      }
+    },
+    "tryallcandy_2": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "zhengelss_aditions:whitesugarcandy"
+          ]
+        }
+      }
+    },
+    "tryallcandy_3": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "zhengelss_aditions:whiteapplecandy"
+          ]
+        }
+      }
+    },
+    "tryallcandy_4": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "zhengelss_aditions:whitecarrotcandy"
+          ]
+        }
+      }
+    },
+    "tryallcandy_5": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "zhengelss_aditions:whiteberrycandy"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 50
+  },
+  "parent": "zhengelss_aditions:craftcandy"
+}

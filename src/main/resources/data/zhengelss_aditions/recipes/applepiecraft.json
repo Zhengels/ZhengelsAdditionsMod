@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "ded",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:milk_bucket"
+    },
+    "b": {
+      "item": "minecraft:wheat"
+    },
+    "c": {
+      "item": "minecraft:egg"
+    },
+    "d": {
+      "item": "minecraft:apple"
+    },
+    "e": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "zhengelss_aditions:applepie",
+    "count": 1
+  }
+}
